@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Thuha. I am a GIS developer.
+## My name is Thuha. I am a GIS developer. A little introduction of me:
+# I studied Geospatial Engineering at the Technical University of Kenya
