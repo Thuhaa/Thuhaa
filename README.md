@@ -9,8 +9,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Thuhaa/Thuhaa/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
